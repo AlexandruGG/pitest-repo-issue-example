@@ -81,6 +81,7 @@
           </dependency>
         </dependencies>
         <configuration>
+          <verbose>true</verbose>
           <threads>8</threads>
         </configuration>
         <executions>
